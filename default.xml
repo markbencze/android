@@ -58,6 +58,7 @@
   <project path="external/android-visualizer" name="CyanogenMod/android_external_android-visualizer" />
   <project path="external/ant-glob" name="CyanogenMod/android_external_ant-glob" />
   <project path="external/antlr" name="CyanogenMod/android_external_antlr" />
+ <project path="external/ant-wireless/antradio-library" name="CyanogenMod/android_external_ant-wireless_antradio-library" />
   <project path="external/apache-harmony" name="CyanogenMod/android_external_apache-harmony" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
   <project path="external/apache-qp" name="CyanogenMod/android_external_apache-qp" />
